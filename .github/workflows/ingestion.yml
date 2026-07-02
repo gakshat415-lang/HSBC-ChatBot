@@ -29,6 +29,7 @@ jobs:
 
       - name: Run Scraper & Embedding Pipeline
         run: |
+          export PYTHONPATH=.
           python src/scraper.py
           python src/ingestion.py
 
