@@ -1,0 +1,32 @@
+Fund Name: HSBC Credit Risk Fund Direct Growth
+Source URL: https://groww.in/mutual-funds/hsbc-credit-risk-fund-direct-growth
+Scrape Date: 2026-07-02
+
+Category: Debt - Credit Risk
+Risk Level: Moderate
+
+NAV: ₹37.3709 (as of 01-Jul-2026)
+
+Expense Ratio: 0.96%
+Exit Load: Exit Load for units in excess of 10% of the investment,1% will be charged for redemption within 1 Year.
+Minimum SIP: ₹1000
+Minimum Lumpsum: ₹5000
+Benchmark: NIFTY Credit Risk Bond Index B-II
+Fund Manager: N/A
+AUM: ₹470.9931 Cr
+Launch Date: 01-Jan-2013
+
+Investment Objective:
+The scheme seeks to generate regular returns and capital appreciation by investing predominantly in AA and below rated corporate bonds, debt, government securities and money market instruments.
+
+Top Holdings:
+1. GOVERNMENT OF INDIA 36232 GOI 21JL30 6.01 FV RS 100 - 6.36%
+2. ADITYA BIRLA RENEWABLES LIMITED 8.6 NCD 24SP27 FVRS1LAC - 5.61%
+3. Power Grid Corpn. Of India Ltd. 7.2 09/08/2027 - 5.59%
+4. JTPM METAL TRADERS LIMITED NCD 30AP30 FVRS1LAC - 5.58%
+5. GODREJ SEEDS & GENETICS LIMITED SR 2 STRPP 7.68 NCD 28AP28 FVRS1LAC - 5.56%
+6. NUVOCO VISTAS CORPORATION LIMITED 7.7 NCD 18SP28 FVRS1LAC - 5.53%
+7. NIRMA LIMITED SR VII TR C 8.50 NCD 07AP27 FVRS1LAC - 5.43%
+8. REC LIMITED SR 230-A 7.71 BD 26FB27 FVRS1LAC - 5.4%
+9. NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 26A 6.66 BD 12OT28 FVRS1LAC - 5.4%
+10. POWER FINANCE CORPORATION LIMITED SR 259A 6.96 BD 02MR28 FVRS1LAC - 5.33%

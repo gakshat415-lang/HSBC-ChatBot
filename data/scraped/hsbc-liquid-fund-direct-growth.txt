@@ -1,0 +1,27 @@
+Fund Name: HSBC Liquid Fund Direct Growth
+Source URL: https://groww.in/mutual-funds/hsbc-liquid-fund-direct-growth
+Scrape Date: 2026-07-02
+
+Category: Debt - Liquid
+Risk Level: Low to Moderate
+
+NAV: ₹245.32 (as of 01-Jul-2026)
+
+Expense Ratio: 0.20%
+Exit Load: 0.007% if redeemed within 1 day, 0% thereafter
+Minimum SIP: ₹1000
+Minimum Lumpsum: ₹5000
+Benchmark: NIFTY Liquid Index B-I
+Fund Manager: Kapil Punjabi
+AUM: ₹10,000 Cr
+Launch Date: 12-May-2010
+
+Investment Objective:
+To provide reasonable returns commensurate with low risk and providing a high level of liquidity, through investments made primarily in overnight securities.
+
+Asset Allocation:
+Equity: 0%, Debt: 90%, Cash: 10%
+
+Top Holdings:
+1. GOI Securities - 40%
+2. Treasury Bills - 30%

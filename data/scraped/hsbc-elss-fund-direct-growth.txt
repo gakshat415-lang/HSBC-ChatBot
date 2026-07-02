@@ -1,0 +1,32 @@
+Fund Name: HSBC ELSS Tax Saver Fund Direct Growth
+Source URL: https://groww.in/mutual-funds/hsbc-elss-fund-direct-growth
+Scrape Date: 2026-07-02
+
+Category: Equity - ELSS
+Risk Level: Very High
+
+NAV: ₹152.4192 (as of 01-Jul-2026)
+
+Expense Ratio: 1.21%
+Exit Load: Nil
+Minimum SIP: ₹500
+Minimum Lumpsum: ₹500
+Benchmark: NIFTY 500 Total Return Index
+Fund Manager: N/A, N/A
+AUM: ₹3985.4904 Cr
+Launch Date: 01-Jan-2013
+
+Investment Objective:
+The scheme aims to generate long-term capital growth from a diversified portfolio of predominantly equity and equity-related securities.
+
+Top Holdings:
+1. ICICI Bank Ltd - 3.64%
+2. Avalon Technologies Ltd. - 3.49%
+3. HDFC Bank Ltd - 3.49%
+4. Reliance Industries Ltd - 3.16%
+5. GE T&D India Ltd - 2.71%
+6. Shriram Transport Finance Company Ltd - 2.49%
+7. Larsen & Toubro Ltd - 2.38%
+8. Bharti Airtel Ltd - 2.14%
+9. Infosys Ltd - 2.09%
+10. State Bank of India - 2.07%

@@ -1,0 +1,25 @@
+Fund Name: HSBC Gold ETF FoF Direct Growth
+Source URL: https://groww.in/mutual-funds/hsbc-gold-etf-fof-direct-growth
+Scrape Date: 2026-07-02
+
+Category: Commodities - Gold
+Risk Level: High
+
+NAV: ₹9.6047 (as of 01-Jul-2026)
+
+Expense Ratio: 0.06%
+Exit Load: Exit load of 1%, if redeemed within 15 days.
+Minimum SIP: ₹500
+Minimum Lumpsum: ₹5000
+Benchmark: Domestic Price of Gold
+Fund Manager: N/A
+AUM: ₹387.0226 Cr
+Launch Date: 30-Mar-2026
+
+Investment Objective:
+The Scheme seek to provide returns that are in line with returns provided by HSBC Gold ETF.
+
+Top Holdings:
+1. HSBC Gold ETF-Growth - 99.4%
+2. Repo - 0.68%
+3. Net Payables - -0.08%

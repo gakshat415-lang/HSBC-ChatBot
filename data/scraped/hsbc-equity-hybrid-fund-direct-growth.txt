@@ -1,0 +1,32 @@
+Fund Name: HSBC Equity Hybrid Fund Direct Growth
+Source URL: https://groww.in/mutual-funds/hsbc-equity-hybrid-fund-direct-growth
+Scrape Date: 2026-07-02
+
+Category: Hybrid - Aggressive Hybrid
+Risk Level: Moderately High Riskometer
+
+NAV: ₹16.7649 (as of 25-Nov-2022)
+
+Expense Ratio: 1.0%
+Exit Load: For units more than 10% of the investments, an exit load of 1% if redeemed within 1 year.
+Minimum SIP: ₹500
+Minimum Lumpsum: ₹5000
+Benchmark: CRISIL Hybrid 35+65 Aggressive Index
+Fund Manager: N/A
+AUM: ₹474.67513451 Cr
+Launch Date: 22-Oct-2018
+
+Investment Objective:
+The scheme seeks long term capital growth and income through investments in equity and equity related securities and fixed income instruments.
+
+Top Holdings:
+1. ICICI Bank Ltd - 6.89%
+2. HDFC Bank Ltd - 6.78%
+3. Reverse Repo - 6.5%
+4. Reliance Industries Ltd - 5.37%
+5. Infosys Ltd - 4.86%
+6. Axis Bank Ltd - 3.63%
+7. CENTRAL GOVERNMENT LOAN 20061 GOI 08JN28 7.17 FV RS 100 - 3.62%
+8. Larsen & Toubro Ltd - 3.41%
+9. CENTRAL GOVERNMENT LOAN 30243 GOI 12AP26 5.63 FV RS 100 - 3.41%
+10. ITC Ltd - 3.31%
