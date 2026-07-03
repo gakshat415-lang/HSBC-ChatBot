@@ -1,6 +1,6 @@
 Fund Name: HSBC Gold ETF FoF Direct Growth
 Source URL: https://groww.in/mutual-funds/hsbc-gold-etf-fof-direct-growth
-Scrape Date: 2026-07-02
+Scrape Date: 2026-07-03
 
 Category: Commodities - Gold
 Risk Level: High

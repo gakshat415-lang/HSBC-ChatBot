@@ -1,6 +1,6 @@
 Fund Name: HSBC Equity Hybrid Fund Direct Growth
 Source URL: https://groww.in/mutual-funds/hsbc-equity-hybrid-fund-direct-growth
-Scrape Date: 2026-07-02
+Scrape Date: 2026-07-03
 
 Category: Hybrid - Aggressive Hybrid
 Risk Level: Moderately High Riskometer
