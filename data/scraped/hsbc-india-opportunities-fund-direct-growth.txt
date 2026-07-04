@@ -1,11 +1,11 @@
 Fund Name: HSBC Flexi Cap Fund Direct Growth
 Source URL: https://groww.in/mutual-funds/hsbc-india-opportunities-fund-direct-growth
-Scrape Date: 2026-07-03
+Scrape Date: 2026-07-04
 
 Category: Equity - Flexi Cap
 Risk Level: Moderately High Riskometer
 
-NAV: ₹255.3755 (as of 02-Jul-2026)
+NAV: ₹254.5041 (as of 03-Jul-2026)
 
 Expense Ratio: 1.33%
 Exit Load: Exit load for units in excess of 10% of the investment,1% will be charged for redemption within 1 year.
