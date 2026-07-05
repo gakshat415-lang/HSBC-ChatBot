@@ -1,6 +1,6 @@
 Fund Name: HSBC Small Cap Fund Direct Growth
 Source URL: https://groww.in/mutual-funds/hsbc-small-cap-fund-direct-growth
-Scrape Date: 2026-07-04
+Scrape Date: 2026-07-05
 
 Category: Equity - Small Cap
 Risk Level: Very High
