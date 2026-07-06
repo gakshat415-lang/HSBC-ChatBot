@@ -1,6 +1,6 @@
 Fund Name: HSBC Midcap Fund Direct Growth
 Source URL: https://groww.in/mutual-funds/hsbc-midcap-fund-direct-growth
-Scrape Date: 2026-07-05
+Scrape Date: 2026-07-06
 
 Category: Equity - Mid Cap
 Risk Level: Very High

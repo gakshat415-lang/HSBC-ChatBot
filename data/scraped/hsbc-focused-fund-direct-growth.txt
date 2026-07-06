@@ -1,6 +1,6 @@
 Fund Name: HSBC Focused Fund Direct Growth
 Source URL: https://groww.in/mutual-funds/hsbc-focused-fund-direct-growth
-Scrape Date: 2026-07-05
+Scrape Date: 2026-07-06
 
 Category: Equity - Flexi Cap
 Risk Level: Moderately High
