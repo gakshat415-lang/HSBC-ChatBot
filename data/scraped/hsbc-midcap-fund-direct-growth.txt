@@ -1,11 +1,11 @@
 Fund Name: HSBC Midcap Fund Direct Growth
 Source URL: https://groww.in/mutual-funds/hsbc-midcap-fund-direct-growth
-Scrape Date: 2026-07-10
+Scrape Date: 2026-07-11
 
 Category: Equity - Mid Cap
 Risk Level: Very High
 
-NAV: ₹518.2069 (as of 09-Jul-2026)
+NAV: ₹523.0119 (as of 10-Jul-2026)
 
 Expense Ratio: 1.23%
 Exit Load: Exit load for units in excess of 10% of the investment, 1% will be charged for redemption within 1 year.
@@ -20,13 +20,13 @@ Investment Objective:
 To generate capital appreciation by investing primarily in midcap stocks. The Scheme will invest primarily in companies whose market capitalization falls between the highest and the lowest constituent of the Nifty Free Float Midcap 100 Index.
 
 Top Holdings:
-1. GE T&D India Ltd - 4.66%
-2. FSN E-Commerce Ventures Ltd - 4.51%
-3. BSE Ltd - 4.34%
-4. PB Fintech Ltd - 4.24%
-5. Lenskart Solutions Ltd. - 4.21%
-6. Bharat Heavy Electricals Ltd - 3.76%
-7. The Federal Bank Ltd - 3.65%
-8. DEWAN HOUSING FINANCE CORP. LTD. EQ - 3.51%
-9. Billionbrains Garage Ventures Ltd. - 3.23%
-10. Aditya Infotech Ltd. - 3.19%
+1. FSN E-Commerce Ventures Ltd - 4.67%
+2. The Federal Bank Ltd - 4.21%
+3. GE T&D India Ltd - 3.98%
+4. Lenskart Solutions Ltd. - 3.84%
+5. PB Fintech Ltd - 3.76%
+6. DEWAN HOUSING FINANCE CORP. LTD. EQ - 3.66%
+7. Aditya Infotech Ltd. - 3.54%
+8. Billionbrains Garage Ventures Ltd. - 3.28%
+9. Bharat Forge Ltd - 3.19%
+10. Repo - 3.05%

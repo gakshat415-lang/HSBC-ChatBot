@@ -1,13 +1,13 @@
 Fund Name: HSBC Infrastructure Fund Direct Growth
 Source URL: https://groww.in/mutual-funds/hsbc-infrastructure-fund-direct-growth
-Scrape Date: 2026-07-10
+Scrape Date: 2026-07-11
 
 Category: Equity - Sectoral
 Risk Level: Very High
 
-NAV: ₹55.7889 (as of 09-Jul-2026)
+NAV: ₹56.5983 (as of 10-Jul-2026)
 
-Expense Ratio: 1.08%
+Expense Ratio: 1.07%
 Exit Load: Exit load for units in excess of 10% of the investment, 1% will be charged for redemption within 90 days.
 Minimum SIP: ₹500
 Minimum Lumpsum: ₹5000
@@ -20,13 +20,13 @@ Investment Objective:
 The scheme endeavours to generate capital appreciation by investing primarily in companies that are engaged in the area of infrastructure. The fund would select fundamentally sound companies, having potential to deliver superior earning growth in long run.
 
 Top Holdings:
-1. NTPC Ltd - 8.74%
-2. Larsen & Toubro Ltd - 6.88%
-3. Bharat Electronics Ltd - 6.81%
-4. Bharti Airtel Ltd - 5.81%
-5. Reliance Industries Ltd - 4.8%
-6. MTAR Technologies Ltd - 4.6%
-7. Ultratech Cement Ltd - 3.72%
-8. GE T&D India Ltd - 3.46%
-9. Hindalco Industries Ltd - 3.24%
-10. Hindustan Aeronautics Ltd - 3.17%
+1. NTPC Ltd - 8.23%
+2. Larsen & Toubro Ltd - 7.47%
+3. Bharat Electronics Ltd - 6.8%
+4. Bharti Airtel Ltd - 5.85%
+5. Reliance Industries Ltd - 4.68%
+6. MTAR Technologies Ltd - 4.43%
+7. Ultratech Cement Ltd - 3.62%
+8. Kirloskar Oil Engines Ltd - 3.58%
+9. Repo - 3.52%
+10. GE T&D India Ltd - 3.31%

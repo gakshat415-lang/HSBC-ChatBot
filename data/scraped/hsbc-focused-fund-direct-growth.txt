@@ -1,13 +1,13 @@
 Fund Name: HSBC Focused Fund Direct Growth
 Source URL: https://groww.in/mutual-funds/hsbc-focused-fund-direct-growth
-Scrape Date: 2026-07-10
+Scrape Date: 2026-07-11
 
 Category: Equity - Flexi Cap
 Risk Level: Moderately High
 
-NAV: ₹28.3667 (as of 09-Jul-2026)
+NAV: ₹28.7252 (as of 10-Jul-2026)
 
-Expense Ratio: 1.05%
+Expense Ratio: 1.04%
 Exit Load: Exit load for units in excess of 10% of the investment,1% will be charged for redemption within 1 year.
 Minimum SIP: ₹500
 Minimum Lumpsum: ₹5000
@@ -20,13 +20,13 @@ Investment Objective:
 The Scheme seeks long term capital growth through investments in a concentrated portfolio of equity & equity related instruments of up to 30 companies across market capitalization.
 
 Top Holdings:
-1. ICICI Bank Ltd - 7.71%
-2. HDFC Bank Ltd - 6.65%
-3. Larsen & Toubro Ltd - 4.85%
-4. Multi Commodity Exchange Of India Ltd - 4.66%
-5. GE T&D India Ltd - 4.6%
-6. Nippon Life India Asset Management Ltd - 4.59%
-7. Repo - 4.59%
-8. Shriram Transport Finance Company Ltd - 4.51%
-9. Reliance Industries Ltd - 4.41%
-10. Kei Industries Ltd - 4.23%
+1. ICICI Bank Ltd - 8.22%
+2. HDFC Bank Ltd - 6.94%
+3. Shriram Transport Finance Company Ltd - 4.84%
+4. Larsen & Toubro Ltd - 4.81%
+5. Nippon Life India Asset Management Ltd - 4.72%
+6. Multi Commodity Exchange Of India Ltd - 4.36%
+7. Kei Industries Ltd - 4.25%
+8. Shadowfax Technologies Ltd. - 4.2%
+9. Reliance Industries Ltd - 4.2%
+10. GE T&D India Ltd - 3.87%
