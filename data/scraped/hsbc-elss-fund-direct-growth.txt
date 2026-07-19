@@ -1,6 +1,6 @@
 Fund Name: HSBC ELSS Tax Saver Fund Direct Growth
 Source URL: https://groww.in/mutual-funds/hsbc-elss-fund-direct-growth
-Scrape Date: 2026-07-18
+Scrape Date: 2026-07-19
 
 Category: Equity - ELSS
 Risk Level: Very High

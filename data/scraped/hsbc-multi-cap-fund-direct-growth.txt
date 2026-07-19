@@ -1,6 +1,6 @@
 Fund Name: HSBC Multi Cap Fund Direct Growth
 Source URL: https://groww.in/mutual-funds/hsbc-multi-cap-fund-direct-growth
-Scrape Date: 2026-07-18
+Scrape Date: 2026-07-19
 
 Category: Equity - Multi Cap
 Risk Level: Very High
