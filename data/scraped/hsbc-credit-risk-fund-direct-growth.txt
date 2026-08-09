@@ -1,6 +1,6 @@
 Fund Name: HSBC Credit Risk Fund Direct Growth
 Source URL: https://groww.in/mutual-funds/hsbc-credit-risk-fund-direct-growth
-Scrape Date: 2026-08-08
+Scrape Date: 2026-08-09
 
 Category: Debt - Credit Risk
 Risk Level: Moderate
@@ -13,7 +13,7 @@ Minimum SIP: ₹1000
 Minimum Lumpsum: ₹5000
 Benchmark: NIFTY Credit Risk Bond Index B-II
 Fund Manager: N/A
-AUM: ₹470.0137 Cr
+AUM: ₹459.9793 Cr
 Launch Date: 01-Jan-2013
 
 Investment Objective:
