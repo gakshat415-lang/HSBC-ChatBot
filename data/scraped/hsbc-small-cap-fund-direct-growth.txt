@@ -1,11 +1,11 @@
 Fund Name: HSBC Small Cap Fund Direct Growth
 Source URL: https://groww.in/mutual-funds/hsbc-small-cap-fund-direct-growth
-Scrape Date: 2026-08-13
+Scrape Date: 2026-08-14
 
 Category: Equity - Small Cap
 Risk Level: Very High
 
-NAV: ₹101.0786 (as of 12-Aug-2026)
+NAV: ₹101.0457 (as of 13-Aug-2026)
 
 Expense Ratio: 0.76%
 Exit Load: Exit load for units in excess of 10% of the investment,1% will be charged for redemption within 1 year.
@@ -13,7 +13,7 @@ Minimum SIP: ₹500
 Minimum Lumpsum: ₹5000
 Benchmark: NIFTY Smallcap 250 Total Return Index
 Fund Manager: N/A, N/A
-AUM: ₹17830.2035 Cr
+AUM: ₹17783.7431 Cr
 Launch Date: 12-May-2014
 
 Investment Objective:
