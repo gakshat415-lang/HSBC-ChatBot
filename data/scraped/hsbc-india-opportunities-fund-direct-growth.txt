@@ -1,11 +1,11 @@
 Fund Name: HSBC Flexi Cap Fund Direct Growth
 Source URL: https://groww.in/mutual-funds/hsbc-india-opportunities-fund-direct-growth
-Scrape Date: 2026-08-26
+Scrape Date: 2026-08-27
 
 Category: Equity - Flexi Cap
 Risk Level: Moderately High Riskometer
 
-NAV: ₹268.0561 (as of 25-Aug-2026)
+NAV: ₹268.5478 (as of 26-Aug-2026)
 
 Expense Ratio: 1.31%
 Exit Load: Exit load for units in excess of 10% of the investment,1% will be charged for redemption within 1 year.
@@ -20,13 +20,13 @@ Investment Objective:
 The scheme aims to invest across all market capitalisations including large, mid and small cap stocks. It will mainly focus on mid-cap companies, which have the potential to become large-caps over time. Though the fund will basically invest in equities, it may move some portion of its assets (up to 50 per cent) into debt and money market instruments, in case equity market tanks.
 
 Top Holdings:
-1. ICICI Bank Ltd - 4.52%
-2. HDFC Bank Ltd - 3.31%
-3. Reliance Industries Ltd - 2.75%
-4. Repo - 2.22%
-5. Shriram Transport Finance Company Ltd - 2.12%
-6. TD Power Systems Ltd - 2.09%
-7. MTAR Technologies Ltd - 2.08%
-8. Axis Bank Ltd - 2.02%
-9. Samvardhana Motherson International Ltd - 2.01%
-10. State Bank of India - 1.96%
+1. ICICI Bank Ltd - 4.65%
+2. HDFC Bank Ltd - 3.06%
+3. Repo - 2.98%
+4. Reliance Industries Ltd - 2.73%
+5. Shriram Transport Finance Company Ltd - 2.09%
+6. State Bank of India - 1.93%
+7. Coforge Ltd - 1.93%
+8. The Karnataka Bank Ltd - 1.83%
+9. Axis Bank Ltd - 1.82%
+10. Bharti Airtel Ltd - 1.81%
