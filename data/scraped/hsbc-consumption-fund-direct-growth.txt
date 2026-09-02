@@ -1,11 +1,11 @@
 Fund Name: HSBC Consumption Fund Direct Growth
 Source URL: https://groww.in/mutual-funds/hsbc-consumption-fund-direct-growth
-Scrape Date: 2026-09-01
+Scrape Date: 2026-09-02
 
 Category: Equity - Thematic
 Risk Level: Very High
 
-NAV: ₹16.2569 (as of 31-Aug-2026)
+NAV: ₹16.1541 (as of 01-Sep-2026)
 
 Expense Ratio: 0.86%
 Exit Load: Exit Load for units in excess of 10% of the investment,1% will be charged for redemption within 90 days.
