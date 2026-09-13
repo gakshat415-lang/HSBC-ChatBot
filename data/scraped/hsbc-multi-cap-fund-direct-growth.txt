@@ -1,6 +1,6 @@
 Fund Name: HSBC Multi Cap Fund Direct Growth
 Source URL: https://groww.in/mutual-funds/hsbc-multi-cap-fund-direct-growth
-Scrape Date: 2026-09-12
+Scrape Date: 2026-09-13
 
 Category: Equity - Multi Cap
 Risk Level: Very High
@@ -20,13 +20,13 @@ Investment Objective:
 The scheme seeks to generate long-term capital growth from an actively managed portfolio of equity and equity related securities across market capitalization.
 
 Top Holdings:
-1. HDFC Bank Ltd - 3.17%
-2. The Federal Bank Ltd - 2.77%
-3. ICICI Bank Ltd - 2.43%
-4. Reliance Industries Ltd - 2.17%
-5. State Bank of India - 2.03%
-6. Radico Khaitan Ltd - 1.92%
-7. Sai Life Sciences Ltd. - 1.92%
-8. Repo - 1.88%
-9. Navin Fluorine International Ltd - 1.83%
-10. Apar Industries Ltd - 1.81%
+1. TD Power Systems Ltd - 3.01%
+2. HDFC Bank Ltd - 2.8%
+3. The Federal Bank Ltd - 2.57%
+4. Repo - 2.56%
+5. Apar Industries Ltd - 2.39%
+6. ICICI Bank Ltd - 2.3%
+7. Reliance Industries Ltd - 1.98%
+8. Sai Life Sciences Ltd. - 1.98%
+9. Tata Motors Ltd - 1.98%
+10. Navin Fluorine International Ltd - 1.95%

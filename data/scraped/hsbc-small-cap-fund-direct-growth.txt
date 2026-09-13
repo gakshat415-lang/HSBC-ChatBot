@@ -1,6 +1,6 @@
 Fund Name: HSBC Small Cap Fund Direct Growth
 Source URL: https://groww.in/mutual-funds/hsbc-small-cap-fund-direct-growth
-Scrape Date: 2026-09-12
+Scrape Date: 2026-09-13
 
 Category: Equity - Small Cap
 Risk Level: Very High
@@ -20,13 +20,13 @@ Investment Objective:
 The Scheme will primarily be a diversified equity fund which will invest predominantly in small cap stocks to generate long term capital appreciation.
 
 Top Holdings:
-1. The Federal Bank Ltd - 2.28%
-2. Karur Vysya Bank Ltd - 2.24%
-3. Apar Industries Ltd - 1.99%
-4. Sai Life Sciences Ltd. - 1.98%
-5. Radico Khaitan Ltd - 1.92%
-6. PNB Housing Finance Ltd - 1.77%
-7. Aster DM Healthcare Ltd - 1.75%
-8. Neuland Laboratories Ltd - 1.73%
-9. Ather Energy Ltd. - 1.7%
-10. Vijaya Diagnostic Centre Ltd - 1.68%
+1. Apar Industries Ltd - 2.33%
+2. Ather Energy Ltd. - 2.16%
+3. Karur Vysya Bank Ltd - 2.12%
+4. The Federal Bank Ltd - 2.11%
+5. Happy Forgings Ltd. - 2.08%
+6. Sai Life Sciences Ltd. - 2.05%
+7. Vijaya Diagnostic Centre Ltd - 1.99%
+8. Neuland Laboratories Ltd - 1.95%
+9. Radico Khaitan Ltd - 1.84%
+10. PNB Housing Finance Ltd - 1.8%
