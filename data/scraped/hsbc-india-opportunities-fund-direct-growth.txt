@@ -1,6 +1,6 @@
 Fund Name: HSBC Flexi Cap Fund Direct Growth
 Source URL: https://groww.in/mutual-funds/hsbc-india-opportunities-fund-direct-growth
-Scrape Date: 2026-09-14
+Scrape Date: 2026-09-15
 
 Category: Equity - Flexi Cap
 Risk Level: Moderately High Riskometer
