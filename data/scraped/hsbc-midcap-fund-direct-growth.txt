@@ -1,11 +1,11 @@
 Fund Name: HSBC Midcap Fund Direct Growth
 Source URL: https://groww.in/mutual-funds/hsbc-midcap-fund-direct-growth
-Scrape Date: 2026-09-24
+Scrape Date: 2026-09-25
 
 Category: Equity - Mid Cap
 Risk Level: Very High
 
-NAV: ₹544.7627 (as of 23-Sep-2026)
+NAV: ₹529.9389 (as of 24-Sep-2026)
 
 Expense Ratio: 1.15%
 Exit Load: Exit load for units in excess of 10% of the investment, 1% will be charged for redemption within 1 year.
