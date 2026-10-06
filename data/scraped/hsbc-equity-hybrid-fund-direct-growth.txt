@@ -1,6 +1,6 @@
 Fund Name: HSBC Equity Hybrid Fund Direct Growth
 Source URL: https://groww.in/mutual-funds/hsbc-equity-hybrid-fund-direct-growth
-Scrape Date: 2026-10-05
+Scrape Date: 2026-10-06
 
 Category: Hybrid - Aggressive Hybrid
 Risk Level: Moderately High Riskometer
@@ -10,7 +10,7 @@ NAV: ₹16.7649 (as of 25-Nov-2022)
 Expense Ratio: 1.01%
 Exit Load: For units more than 10% of the investments, an exit load of 1% if redeemed within 1 year.
 Minimum SIP: ₹500
-Minimum Lumpsum: ₹5000
+Minimum Lumpsum: ₹0
 Benchmark: CRISIL Hybrid 35+65 Aggressive Index
 Fund Manager: N/A
 AUM: ₹474.67513451 Cr
