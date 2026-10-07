@@ -1,11 +1,11 @@
 Fund Name: HSBC Credit Risk Fund Direct Growth
 Source URL: https://groww.in/mutual-funds/hsbc-credit-risk-fund-direct-growth
-Scrape Date: 2026-10-06
+Scrape Date: 2026-10-07
 
 Category: Debt - Credit Risk
 Risk Level: Moderate
 
-NAV: ₹37.8739 (as of 05-Oct-2026)
+NAV: ₹37.8798 (as of 06-Oct-2026)
 
 Expense Ratio: 0.84%
 Exit Load: Exit Load for units in excess of 10% of the investment,1% will be charged for redemption within 1 Year.
@@ -13,20 +13,20 @@ Minimum SIP: ₹1000
 Minimum Lumpsum: ₹5000
 Benchmark: NIFTY Credit Risk Bond Index B-II
 Fund Manager: N/A
-AUM: ₹456.9194 Cr
+AUM: ₹441.1801 Cr
 Launch Date: 01-Jan-2013
 
 Investment Objective:
 The scheme seeks to generate regular returns and capital appreciation by investing predominantly in AA and below rated corporate bonds, debt, government securities and money market instruments.
 
 Top Holdings:
-1. NUVOCO VISTAS CORPORATION LIMITED 7.7 NCD 18SP28 FVRS1LAC - 8.12%
-2. GOVERNMENT OF INDIA 36232 GOI 21JL30 6.01 FV RS 100 - 6.51%
-3. ADITYA BIRLA RENEWABLES LIMITED 8.6 NCD 24SP27 FVRS1LAC - 5.92%
-4. JTPM METAL TRADERS LIMITED NCD 30AP30 FVRS1LAC - 5.9%
-5. NIRMA LIMITED SR VII TR C 8.50 NCD 07AP27 FVRS1LAC - 5.73%
-6. POWER FINANCE CORPORATION LIMITED SR 259A 6.96 BD 02MR28 FVRS1LAC - 5.61%
-7. Power Grid Corpn. Of India Ltd. 7.2 09/08/2027 - 5.49%
-8. GODREJ SEEDS & GENETICS LIMITED SR 2 STRPP 7.68 NCD 28AP28 FVRS1LAC - 5.45%
-9. Repo - 5.44%
-10. JSW Kalinga Steel Ltd. - 4.53%
+1. NUVOCO VISTAS CORPORATION LIMITED 7.7 NCD 18SP28 FVRS1LAC - 7.88%
+2. GOVERNMENT OF INDIA 36232 GOI 21JL30 6.01 FV RS 100 - 6.69%
+3. JTPM METAL TRADERS LIMITED NCD 30AP30 FVRS1LAC - 6.12%
+4. NIRMA LIMITED SR VII TR C 8.50 NCD 07AP27 FVRS1LAC - 5.97%
+5. POWER FINANCE CORPORATION LIMITED SR 259A 6.96 BD 02MR28 FVRS1LAC - 5.84%
+6. Power Grid Corpn. Of India Ltd. 7.2 09/08/2027 - 5.71%
+7. ADITYA BIRLA RENEWABLES LIMITED 8.6 NCD 24SP27 FVRS1LAC - 5.68%
+8. GODREJ SEEDS & GENETICS LIMITED SR 2 STRPP 7.68 NCD 28AP28 FVRS1LAC - 5.67%
+9. JSW Kalinga Steel Ltd. - 4.72%
+10. GMR AIRPORTS LIMITED 5 BD 13FB27 FVRS1LAC - 3.7%
