@@ -1,11 +1,11 @@
 Fund Name: HSBC Multi Cap Fund Direct Growth
 Source URL: https://groww.in/mutual-funds/hsbc-multi-cap-fund-direct-growth
-Scrape Date: 2026-10-08
+Scrape Date: 2026-10-09
 
 Category: Equity - Multi Cap
 Risk Level: Very High
 
-NAV: ₹20.7781 (as of 07-Oct-2026)
+NAV: ₹20.2933 (as of 08-Oct-2026)
 
 Expense Ratio: 0.79%
 Exit Load: Exit Load for units in excess of 10% of the investment,1% will be charged for redemption within 1 year.
@@ -13,20 +13,20 @@ Minimum SIP: ₹500
 Minimum Lumpsum: ₹5000
 Benchmark: Nifty 500 Multicap 50:25:25 Total Return Index
 Fund Manager: N/A, N/A, N/A
-AUM: ₹6502.5809 Cr
+AUM: ₹6380.1742 Cr
 Launch Date: 30-Jan-2023
 
 Investment Objective:
 The scheme seeks to generate long-term capital growth from an actively managed portfolio of equity and equity related securities across market capitalization.
 
 Top Holdings:
-1. TD Power Systems Ltd - 3.01%
-2. HDFC Bank Ltd - 2.8%
-3. The Federal Bank Ltd - 2.57%
-4. Repo - 2.56%
-5. Apar Industries Ltd - 2.39%
-6. ICICI Bank Ltd - 2.3%
-7. Reliance Industries Ltd - 1.98%
-8. Sai Life Sciences Ltd. - 1.98%
-9. Tata Motors Ltd - 1.98%
-10. Navin Fluorine International Ltd - 1.95%
+1. TD Power Systems Ltd - 3.1%
+2. HDFC Bank Ltd - 2.85%
+3. Repo - 2.69%
+4. Apar Industries Ltd - 2.39%
+5. The Federal Bank Ltd - 2.33%
+6. Radico Khaitan Ltd - 2.31%
+7. Engineers India Ltd - 2.27%
+8. ICICI Bank Ltd - 2.13%
+9. Sai Life Sciences Ltd. - 2.11%
+10. Navin Fluorine International Ltd - 1.89%

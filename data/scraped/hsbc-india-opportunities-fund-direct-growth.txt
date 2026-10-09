@@ -1,32 +1,32 @@
 Fund Name: HSBC Flexi Cap Fund Direct Growth
 Source URL: https://groww.in/mutual-funds/hsbc-india-opportunities-fund-direct-growth
-Scrape Date: 2026-10-08
+Scrape Date: 2026-10-09
 
 Category: Equity - Flexi Cap
 Risk Level: Moderately High Riskometer
 
-NAV: ₹257.7668 (as of 07-Oct-2026)
+NAV: ₹252.3211 (as of 08-Oct-2026)
 
-Expense Ratio: 1.29%
+Expense Ratio: 1.3%
 Exit Load: Exit load for units in excess of 10% of the investment,1% will be charged for redemption within 1 year.
 Minimum SIP: ₹500
 Minimum Lumpsum: ₹5000
 Benchmark: NIFTY 500 Total Return Index
 Fund Manager: N/A, N/A
-AUM: ₹5999.6677 Cr
+AUM: ₹5748.7358 Cr
 Launch Date: 01-Jan-2013
 
 Investment Objective:
 The scheme aims to invest across all market capitalisations including large, mid and small cap stocks. It will mainly focus on mid-cap companies, which have the potential to become large-caps over time. Though the fund will basically invest in equities, it may move some portion of its assets (up to 50 per cent) into debt and money market instruments, in case equity market tanks.
 
 Top Holdings:
-1. ICICI Bank Ltd - 4.49%
-2. HDFC Bank Ltd - 2.76%
-3. Reliance Industries Ltd - 2.54%
-4. Repo - 2.5%
-5. TD Power Systems Ltd - 2.18%
-6. Shriram Transport Finance Company Ltd - 2.12%
-7. Coforge Ltd - 2.12%
-8. The Karnataka Bank Ltd - 2.06%
-9. Multi Commodity Exchange Of India Ltd - 1.96%
-10. Samvardhana Motherson International Ltd - 1.91%
+1. ICICI Bank Ltd - 3.89%
+2. Reliance Industries Ltd - 2.47%
+3. TD Power Systems Ltd - 2.31%
+4. Kotak Mahindra Bank Ltd - 2.22%
+5. Repo - 2.12%
+6. The Karnataka Bank Ltd - 2.11%
+7. Multi Commodity Exchange Of India Ltd - 1.99%
+8. Coforge Ltd - 1.95%
+9. Samvardhana Motherson International Ltd - 1.91%
+10. Tata Steel Ltd - 1.84%

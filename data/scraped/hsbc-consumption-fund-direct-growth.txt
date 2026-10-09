@@ -1,11 +1,11 @@
 Fund Name: HSBC Consumption Fund Direct Growth
 Source URL: https://groww.in/mutual-funds/hsbc-consumption-fund-direct-growth
-Scrape Date: 2026-10-08
+Scrape Date: 2026-10-09
 
 Category: Equity - Thematic
 Risk Level: Very High
 
-NAV: ₹15.4448 (as of 07-Oct-2026)
+NAV: ₹15.0885 (as of 08-Oct-2026)
 
 Expense Ratio: 0.88%
 Exit Load: Exit Load for units in excess of 10% of the investment,1% will be charged for redemption within 90 days.
@@ -13,20 +13,20 @@ Minimum SIP: ₹500
 Minimum Lumpsum: ₹5000
 Benchmark: NIFTY India Consumption Total Return Index
 Fund Manager: N/A, N/A
-AUM: ₹1816.6165 Cr
+AUM: ₹1697.5225 Cr
 Launch Date: 31-Aug-2023
 
 Investment Objective:
 The scheme seeks to generate long-term capital growth from an actively managed portfolio of equity and equity related securities of companies engaged in or expected to benefi t from consumption and consumption related activities.
 
 Top Holdings:
-1. Zomato Ltd - 6.7%
-2. Bharti Airtel Ltd - 5.33%
-3. Radico Khaitan Ltd - 4.79%
-4. Titan Company Ltd - 4.39%
-5. Maruti Suzuki India Ltd - 4.36%
-6. Ather Energy Ltd. - 3.66%
-7. TVS Motor Company Ltd - 3.15%
-8. Global Health Ltd - 3.13%
-9. Mahindra & Mahindra Ltd - 3.01%
-10. Varun Beverages Ltd - 2.82%
+1. Zomato Ltd - 7%
+2. Radico Khaitan Ltd - 4.99%
+3. Bharti Airtel Ltd - 4.5%
+4. Titan Company Ltd - 4.23%
+5. Maruti Suzuki India Ltd - 4.12%
+6. Milky Mist Dairy Food Ltd. - 3.37%
+7. Ather Energy Ltd. - 3.25%
+8. Varun Beverages Ltd - 3.25%
+9. TVS Motor Company Ltd - 3.19%
+10. Global Health Ltd - 3.09%
