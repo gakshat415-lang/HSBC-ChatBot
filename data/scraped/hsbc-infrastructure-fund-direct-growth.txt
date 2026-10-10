@@ -1,11 +1,11 @@
 Fund Name: HSBC Infrastructure Fund Direct Growth
 Source URL: https://groww.in/mutual-funds/hsbc-infrastructure-fund-direct-growth
-Scrape Date: 2026-10-09
+Scrape Date: 2026-10-10
 
 Category: Equity - Sectoral
 Risk Level: Very High
 
-NAV: ₹55.7221 (as of 08-Oct-2026)
+NAV: ₹55.9625 (as of 09-Oct-2026)
 
 Expense Ratio: 1.11%
 Exit Load: Exit load for units in excess of 10% of the investment, 1% will be charged for redemption within 90 days.
