@@ -1,11 +1,11 @@
 Fund Name: HSBC Focused Fund Direct Growth
 Source URL: https://groww.in/mutual-funds/hsbc-focused-fund-direct-growth
-Scrape Date: 2026-10-16
+Scrape Date: 2026-10-17
 
 Category: Equity - Flexi Cap
 Risk Level: Moderately High
 
-NAV: ₹28.4575 (as of 15-Oct-2026)
+NAV: ₹28.4503 (as of 16-Oct-2026)
 
 Expense Ratio: 1.08%
 Exit Load: Exit load for units in excess of 10% of the investment,1% will be charged for redemption within 1 year.
@@ -13,7 +13,7 @@ Minimum SIP: ₹500
 Minimum Lumpsum: ₹5000
 Benchmark: NIFTY 500 Total Return Index
 Fund Manager: N/A, N/A
-AUM: ₹1750.5189 Cr
+AUM: ₹1750.52 Cr
 Launch Date: 22-Jul-2020
 
 Investment Objective:
