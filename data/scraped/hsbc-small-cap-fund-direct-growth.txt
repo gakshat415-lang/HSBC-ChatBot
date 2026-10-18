@@ -1,6 +1,6 @@
 Fund Name: HSBC Small Cap Fund Direct Growth
 Source URL: https://groww.in/mutual-funds/hsbc-small-cap-fund-direct-growth
-Scrape Date: 2026-10-17
+Scrape Date: 2026-10-18
 
 Category: Equity - Small Cap
 Risk Level: Very High
@@ -13,7 +13,7 @@ Minimum SIP: ₹500
 Minimum Lumpsum: ₹5000
 Benchmark: NIFTY Smallcap 250 Total Return Index
 Fund Manager: N/A, N/A
-AUM: ₹18512.7 Cr
+AUM: ₹18512.696 Cr
 Launch Date: 12-May-2014
 
 Investment Objective:

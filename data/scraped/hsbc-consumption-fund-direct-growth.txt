@@ -1,6 +1,6 @@
 Fund Name: HSBC Consumption Fund Direct Growth
 Source URL: https://groww.in/mutual-funds/hsbc-consumption-fund-direct-growth
-Scrape Date: 2026-10-17
+Scrape Date: 2026-10-18
 
 Category: Equity - Thematic
 Risk Level: Very High
@@ -13,7 +13,7 @@ Minimum SIP: ₹500
 Minimum Lumpsum: ₹5000
 Benchmark: NIFTY India Consumption Total Return Index
 Fund Manager: N/A, N/A
-AUM: ₹1697.52 Cr
+AUM: ₹1697.5225 Cr
 Launch Date: 31-Aug-2023
 
 Investment Objective:
