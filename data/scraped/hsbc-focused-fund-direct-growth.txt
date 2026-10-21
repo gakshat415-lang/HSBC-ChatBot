@@ -1,6 +1,6 @@
 Fund Name: HSBC Focused Fund Direct Growth
 Source URL: https://groww.in/mutual-funds/hsbc-focused-fund-direct-growth
-Scrape Date: 2026-10-20
+Scrape Date: 2026-10-21
 
 Category: Equity - Flexi Cap
 Risk Level: Moderately High
@@ -13,7 +13,7 @@ Minimum SIP: ₹500
 Minimum Lumpsum: ₹5000
 Benchmark: NIFTY 500 Total Return Index
 Fund Manager: N/A, N/A
-AUM: ₹1750.5189 Cr
+AUM: ₹1750.52 Cr
 Launch Date: 22-Jul-2020
 
 Investment Objective:
