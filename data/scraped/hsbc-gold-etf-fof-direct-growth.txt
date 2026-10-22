@@ -1,6 +1,6 @@
 Fund Name: HSBC Gold ETF FoF Direct Growth
 Source URL: https://groww.in/mutual-funds/hsbc-gold-etf-fof-direct-growth
-Scrape Date: 2026-10-21
+Scrape Date: 2026-10-22
 
 Category: Commodities - Gold
 Risk Level: High
@@ -13,7 +13,7 @@ Minimum SIP: ₹0
 Minimum Lumpsum: ₹0
 Benchmark: Domestic Price of Gold
 Fund Manager: N/A
-AUM: ₹382.1768 Cr
+AUM: ₹382.18 Cr
 Launch Date: 30-Mar-2026
 
 Investment Objective:
