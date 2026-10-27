@@ -1,11 +1,11 @@
 Fund Name: HSBC ELSS Tax Saver Fund Direct Growth
 Source URL: https://groww.in/mutual-funds/hsbc-elss-fund-direct-growth
-Scrape Date: 2026-10-26
+Scrape Date: 2026-10-27
 
 Category: Equity - ELSS
 Risk Level: Very High
 
-NAV: ₹143.0532 (as of 23-Oct-2026)
+NAV: ₹144.4281 (as of 26-Oct-2026)
 
 Expense Ratio: 1.22%
 Exit Load: Nil
