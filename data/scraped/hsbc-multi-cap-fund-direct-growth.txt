@@ -1,11 +1,11 @@
 Fund Name: HSBC Multi Cap Fund Direct Growth
 Source URL: https://groww.in/mutual-funds/hsbc-multi-cap-fund-direct-growth
-Scrape Date: 2026-11-02
+Scrape Date: 2026-11-03
 
 Category: Equity - Multi Cap
 Risk Level: Very High
 
-NAV: ₹19.8555 (as of 30-Oct-2026)
+NAV: ₹20.1027 (as of 02-Nov-2026)
 
 Expense Ratio: 0.8%
 Exit Load: Exit Load for units in excess of 10% of the investment,1% will be charged for redemption within 1 year.
