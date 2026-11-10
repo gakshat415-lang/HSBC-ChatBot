@@ -1,11 +1,11 @@
 Fund Name: HSBC Credit Risk Fund Direct Growth
 Source URL: https://groww.in/mutual-funds/hsbc-credit-risk-fund-direct-growth
-Scrape Date: 2026-11-09
+Scrape Date: 2026-11-10
 
 Category: Debt - Credit Risk
 Risk Level: Moderate
 
-NAV: ₹37.9793 (as of 06-Nov-2026)
+NAV: ₹38.0275 (as of 09-Nov-2026)
 
 Expense Ratio: 0.84%
 Exit Load: Exit Load for units in excess of 10% of the investment,1% will be charged for redemption within 1 Year.
