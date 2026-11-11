@@ -1,6 +1,6 @@
 Fund Name: HSBC Infrastructure Fund Direct Growth
 Source URL: https://groww.in/mutual-funds/hsbc-infrastructure-fund-direct-growth
-Scrape Date: 2026-11-10
+Scrape Date: 2026-11-11
 
 Category: Equity - Thematic
 Risk Level: Very High
