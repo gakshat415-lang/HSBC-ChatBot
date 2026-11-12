@@ -1,11 +1,11 @@
 Fund Name: HSBC Flexi Cap Fund Direct Growth
 Source URL: https://groww.in/mutual-funds/hsbc-india-opportunities-fund-direct-growth
-Scrape Date: 2026-11-11
+Scrape Date: 2026-11-12
 
 Category: Equity - Flexi Cap
 Risk Level: Moderately High Riskometer
 
-NAV: ₹266.7835 (as of 09-Nov-2026)
+NAV: ₹269.0522 (as of 11-Nov-2026)
 
 Expense Ratio: 1.28%
 Exit Load: Exit load for units in excess of 10% of the investment,1% will be charged for redemption within 1 year.
@@ -13,20 +13,20 @@ Minimum SIP: ₹500
 Minimum Lumpsum: ₹5000
 Benchmark: NIFTY 500 Total Return Index
 Fund Manager: N/A, N/A, N/A
-AUM: ₹5748.74 Cr
+AUM: ₹5610.75 Cr
 Launch Date: 01-Jan-2013
 
 Investment Objective:
 The scheme aims to invest across all market capitalisations including large, mid and small cap stocks. It will mainly focus on mid-cap companies, which have the potential to become large-caps over time. Though the fund will basically invest in equities, it may move some portion of its assets (up to 50 per cent) into debt and money market instruments, in case equity market tanks.
 
 Top Holdings:
-1. ICICI Bank Ltd - 3.89%
-2. Reliance Industries Ltd - 2.47%
-3. TD Power Systems Ltd - 2.31%
-4. Kotak Mahindra Bank Ltd - 2.22%
-5. Repo - 2.12%
-6. The Karnataka Bank Ltd - 2.11%
-7. Multi Commodity Exchange Of India Ltd - 1.99%
-8. Coforge Ltd - 1.95%
-9. Samvardhana Motherson International Ltd - 1.91%
-10. Tata Steel Ltd - 1.84%
+1. ICICI Bank Ltd - 4.21%
+2. Kotak Mahindra Bank Ltd - 2.52%
+3. Reliance Industries Ltd - 2.48%
+4. Coforge Ltd - 2.34%
+5. Bharti Airtel Ltd - 2.06%
+6. The Karnataka Bank Ltd - 2.06%
+7. TD Power Systems Ltd - 1.95%
+8. Samvardhana Motherson International Ltd - 1.87%
+9. Zomato Ltd - 1.76%
+10. MTAR Technologies Ltd - 1.72%
