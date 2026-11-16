@@ -1,6 +1,6 @@
 Fund Name: HSBC Gold ETF FoF Direct Growth
 Source URL: https://groww.in/mutual-funds/hsbc-gold-etf-fof-direct-growth
-Scrape Date: 2026-11-15
+Scrape Date: 2026-11-16
 
 Category: Commodities - Gold
 Risk Level: High
@@ -20,6 +20,6 @@ Investment Objective:
 The Scheme seek to provide returns that are in line with returns provided by HSBC Gold ETF.
 
 Top Holdings:
-1. HSBC Gold ETF-Growth - 99.08%
-2. Repo - 1.14%
-3. Net Payables - -0.22%
+1. HSBC Gold ETF-Growth - 99.34%
+2. Repo - 0.75%
+3. Net Payables - -0.09%
